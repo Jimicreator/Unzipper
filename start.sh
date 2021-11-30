@@ -3,7 +3,7 @@ echo "
 
 Copyright (c) 2021 Itz-fork
 
---> Join @NexaBotsUpdates
---> Follow Itz-fork on Github
+--> Join @Jimi_Bots
+--> Also Support My Group Link Is In the Channel
 "
 python3 -m unzipper
